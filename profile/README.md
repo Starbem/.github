@@ -12,6 +12,6 @@ Essas são algumas das tecnologias que usamos para construir nossos produtos inc
 | Objective-C | Postgres        | GCP           | React Native |         | Sentry           |
 | Swift       | MongoDB         | Docker        |              |         | Google Workspace |
 | Kotlin      | Redis           | Jenkins       |              |         | Slack            |
-| Java        |                 |               |              |         | Power BI         |
+| Java        |                 | AWS           |              |         | Power BI         |
 | Python      |                 |               |              |         |                  |
 
