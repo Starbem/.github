@@ -13,5 +13,5 @@ Essas são algumas das tecnologias que usamos para construir nossos produtos inc
 | Swift       | MongoDB         | Docker        |              |         | Google Workspace |
 | Kotlin      | Redis           | Jenkins       |              |         | Slack            |
 | Java        |                 | AWS           |              |         | Power BI         |
-| Python      |                 |               |              |         |                  |
+| Python      |                 | Kubernetes    |              |         |                  |
 
